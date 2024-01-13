@@ -37,7 +37,7 @@ export default function Introduction() {
   return (
     <>
       <Helmet>
-        <title>ResumeFy - Create Your Resume in Minutes</title>
+        <title>ResumeIO - Create Your Resume in Minutes</title>
         <meta
           name="description"
           content="Build your professional resume in minutes using our easy-to-use online resume builder. Choose from a variety of templates and customize your resume to land your dream job. Get started now!"
