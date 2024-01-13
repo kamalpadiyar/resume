@@ -1,6 +1,6 @@
-# ResumeFy - Resume Builder Website
+# ResumeIO - Resume Builder Website
 
-ResumeFy is a web application built with ReactJS that aims to make it easy for anyone to create professional resumes in just three simple steps. It provides various resume templates to choose from, allowing users to customize their resumes with their information and preferences. Additionally, ResumeFy allows users to save and print their resumes in their desired formats. The website can be easily deployed using Vercel.
+ResumeIO is a web application built with ReactJS that aims to make it easy for anyone to create professional resumes in just three simple steps. It provides various resume templates to choose from, allowing users to customize their resumes with their information and preferences. Additionally, ResumeFy allows users to save and print their resumes in their desired formats. The website can be easily deployed using Vercel.
 
 ![Screenshot (24)](https://github.com/king11223344/ResumeFy/assets/51441410/48c42517-c48c-4a62-95f0-6f4b4530313e)
 
@@ -21,7 +21,7 @@ ResumeFy is a web application built with ReactJS that aims to make it easy for a
 
 ## Features
 
-ResumeFy offers the following features:
+ResumeIO offers the following features:
 
 - Choose from a variety of resume templates.
 - Easily update resume information.
@@ -31,7 +31,7 @@ ResumeFy offers the following features:
 Please note that some resume templates are still in the development phase and may not be available for use yet.
 
 ## Demo
-See the live demo of the site at [https://resumefy.vercel.app/]
+See the live demo of the site at 
 
 ## Getting Started
 
@@ -47,11 +47,11 @@ To get started with ResumeFy, follow the instructions below.
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/king11223344/ResumeFy.git
+git clone https://github.com/kamalpadiyar/resume.git
 ```
 2. Navigate to the project directory:
 ```bash
-cd ResumeFy
+cd ResumeIO
 ```
 3. Install the dependencies:
 ``` bash
@@ -64,7 +64,7 @@ npm run start
 
 ## Usage
 
-ResumeFy provides a simple three-step process to create and customize your resume.
+ResumeIO provides a simple three-step process to create and customize your resume.
 
 ### Step 1: Select a Template
 
